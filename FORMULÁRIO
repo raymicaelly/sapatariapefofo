@@ -1,4 +1,4 @@
-<!DOCTYPE html>
++<!DOCTYPE html>
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
@@ -75,7 +75,7 @@
             <option value="debito">Débito</option>
             <option value="boleto">Boleto</option>
             <option value="paypal">PayPal</option>
-            <option value="pix">PayPal</option>
+            <option value="pix">Pix</option>
             
 
         </select><br><br>
